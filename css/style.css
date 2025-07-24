@@ -345,7 +345,7 @@ h6{
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   padding:.625rem 0;
-  list-style-type: none;
+  list-style: none;
   display: flex;
   align-items: center;
   justify-content: center;

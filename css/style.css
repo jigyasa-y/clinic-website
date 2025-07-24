@@ -351,6 +351,9 @@ h6{
   justify-content: center;
 
 }
+.team_wrapper .team-info .social-network li {
+list-style-type:none;
+}
 .team_wrapper .team-info .social-network li a{
   width:1.5625rem;
   height: 1.5625rem;

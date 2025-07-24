@@ -358,6 +358,7 @@ h6{
   display:block;
   border-radius: .3125rem;
   margin: 0 .3125rem;
+  list-style-type:none;
   font-size: .75rem;
   background-color: var(--bg-dark);
   color:var(--text-white);

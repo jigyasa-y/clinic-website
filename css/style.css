@@ -352,7 +352,8 @@ h6{
 
 }
 .team_wrapper .team-info .social-network{
-list-style:none;
+
+    list-style: none !important;
 }
 
 .team_wrapper .team-info .social-network li a{
